@@ -24,7 +24,7 @@
 
 #define SOME_BYTES 100
 
-
+/*Gloabl variable*/
 int LED_NO[4]={0,1,2,3};
 
 int write_trigger_values(uint8_t LED_NUMBER, char *value)
