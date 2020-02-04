@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : Ext_interface.c
+ Name        : External_interface.c
  Author      : SUPERMAN
  Version     : 2.0
  Copyright   : Your copyright notice
